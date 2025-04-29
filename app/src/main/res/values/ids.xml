@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- IDs are automatically generated for views with android:id attributes in layout files -->
+    <item name="myTable" type="id"/>
+    <item name="editName" type="id"/>
+    <item name="editEmail" type="id"/>
+    <item name="submitBtn" type="id"/>
+    <item name="main" type="id"/>
+    <item name="textView" type="id"/>
+    <item name="secondTitle" type="id"/>
+</resources>
